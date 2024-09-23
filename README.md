@@ -31,14 +31,11 @@ To use this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/airline-satisfaction-prediction.git
+   git clone https://github.com/rahulpudurkar/Airline-Passenger-Satisfaction-Prediction.git
    cd airline-satisfaction-prediction
    ```
 
-2. Install the required Python libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Install the required Python libraries.
 
 3. Ensure the `Invistico_Airline.csv` dataset is in the working directory. You can find this file on Blackboard or from the repository.
 
